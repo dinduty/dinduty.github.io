@@ -1,0 +1,8 @@
+.banner{
+    background: url("assets/d1.jpg") 
+        no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20px;
+    color: #fff
+}
